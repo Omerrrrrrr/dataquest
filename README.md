@@ -24,36 +24,43 @@ outputs/plots are not included — re-run the notebook with the project's datase
 | Star Wars Survey | `.ipynb` |
 | Storytelling Data Visualization on Exchange Rates | `.ipynb` |
 
-## Completed, but no own code in the Dataquest workspace
+## Dataquest solution notebooks
 
-The notebook/editor for these projects was empty (or only had the starter template), so there was nothing to save:
+For these projects my own workspace was empty, so the folder contains Dataquest's official
+solution notebook (`Solution.ipynb`) instead — **this is Dataquest's code, not mine**.
+Helper modules the solutions import (`helper.py`, `linked_list.py`, `pipeline.py`, `stop_words.py`)
+are included where needed.
 
 - Analyzing Startup Fundraising Deals from Crunchbase
 - Analyzing Stock Prices
-- Analyzing Wikipedia Pages
-- Build a Food Ordering App
 - Building a database for crime reports
 - Building Fast Queries on a CSV
-- Classifying Heart Disease
-- Credit Card Customer Segmentation
 - Evaluating Numerical Expressions
-- Exploring Hacker News Posts (second course version, m404)
 - Finding the Best Markets to Advertise In
 - Hacker News Pipeline
-- Implementing a Key-Value Database
+- Learn and Install Jupyter Notebook
 - Optimizing Model Prediction
 - Practice Optimizing DataFrames and Processing in Chunks
-- Predicting Employee Productivity Using Tree Models
 - Predicting Heart Disease
 - Predicting Insurance Costs
 - Predicting Listing Gains in the Indian IPO Market Using TensorFlow
 - Prison Break
-- Profitable App Profiles for the App Store and Google Play Markets (both versions, m350 and m428)
+- Profitable App Profiles for the App Store and Google Play Markets
 - Stochastic Gradient Descent on Linear Regression
 - Winning Jeopardy
+
+## Completed, but nothing to save
+
+Neither my own code nor a Dataquest solution is available for these:
+
+- Analyzing Wikipedia Pages
+- Build a Food Ordering App
+- Classifying Heart Disease
+- Credit Card Customer Segmentation
+- Implementing a Key-Value Database
+- Predicting Employee Productivity Using Tree Models
 
 ## Installation projects (done locally, nothing to save)
 
 - Git Installation and GitHub Integration
-- Learn and Install Jupyter Notebook
 - PostgreSQL Installation
